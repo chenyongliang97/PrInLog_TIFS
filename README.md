@@ -6,4 +6,4 @@ Execute the static backward slicing through: `java -jar PrInLog.jar APP_DIR andr
 
 The `run_GPT.py` contains Python script for LLM interpretation. Valid endpoints would be required to run the script.
 
-Code will be released later.
+The `src` folder contains the code to build our tool, and the `libs` folder contains the necessary libraries.
